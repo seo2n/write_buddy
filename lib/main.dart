@@ -36,7 +36,7 @@ class _MyHomePageState extends State<MyHomePage> {
   bool isResultMode = false;
   final TextEditingController _textController = TextEditingController();
 
-  static const String groqApiKey = "key";
+  static const String groqApiKey = "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";
 
   // ✅ AI 첨삭 함수
   Future<void> getAiFeedback(String text) async {

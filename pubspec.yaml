@@ -11,6 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   http: ^1.2.0  # 👈 이 한 줄을 꼭 추가하세요!
+  fl_chart: ^0.66.0
   image_picker: ^1.0.7
   google_mlkit_text_recognition: ^0.11.0
   google_generative_ai: ^0.4.7  # 👈 다시 이 버전으로 돌아가세요. (에러 안 날 겁니다)
